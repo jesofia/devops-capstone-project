@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/jesofia/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 THIS IS A DEVOPS CAPSTONE PROJECT
 
 
